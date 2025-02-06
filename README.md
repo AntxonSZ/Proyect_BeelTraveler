@@ -14,7 +14,7 @@
 ## BeelTraveler
 
 Herping Zoongolica es una aplicación web diseñada para proporcionar una guía completa de identificación de especies de anfibios y reptiles de México, dirigida por estudiantes de Ingeniería en Sistemas Computacionales del Instituto Tecnológico Superior de Zongolica. El proyecto tiene como objetivo satisfacer las necesidades de la Finca Santa Marta Eco Suits, ubicada en el municipio de Los Reyes, Veracruz, México.\
-[Reportar error](https://github.com/Jesus-Puertos/beeltraveler-repo-tecnm/issues) · [Sugerir algo](https://github.com/Jesus-Puertos/beeltraveler-repo-tecnm/issues)
+[Reportar error](https://github.com/JAntxonSZ/Proyect_BeelTraveler/issues) · [Sugerir algo](https://github.com/JAntxonSZ/Proyect_BeelTraveler/issues)
 
 </div>
 
